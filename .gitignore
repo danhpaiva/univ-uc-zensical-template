@@ -1,3 +1,6 @@
+# Site gerado pelo Zensical (zensical build / zensical serve)
+site/
+
 # Logs
 logs
 *.log
